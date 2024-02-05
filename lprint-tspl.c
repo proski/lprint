@@ -162,7 +162,7 @@ lprintTSPL(
   data->speed_supported[1] = 12 * 2540;
 
   // Darkness/density settings...
-  data->darkness_configured = 50;
+  data->darkness_configured = 53;
   data->darkness_supported  = 16;
 
   return (true);
